@@ -1,0 +1,2 @@
+var meunomeValor = document.getElementById('meunome');
+			var impressaoValor =document.getElementById('impressao'
